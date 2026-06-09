@@ -21,7 +21,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 75,https://leetcode.com/problems/sort-colors,Sort Colors,Medium,69.6%,50.0% --done
 88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,62.5%
 128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,62.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,50.0%
+146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,50.0% --DONE IIII
 169,https://leetcode.com/problems/majority-element,Majority Element,Easy,66.3%,62.5%
 189,https://leetcode.com/problems/rotate-array,Rotate Array,Medium,44.9%,37.5%
 200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,62.5%
